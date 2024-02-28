@@ -1,0 +1,6 @@
+HOSTNAME=localhost.localdomain
+                   MEMORY=20G
+                   BIOS=6.00
+                   CPU=AMD Ryzen 7 7735HS with Radeon Graphics
+                   DISK_SIZE_VDA=1G
+                   DISK_SIZE_VDB=19G
